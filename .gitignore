@@ -1,0 +1,13 @@
+# binarios grandes del lab (se generan/descargan localmente)
+iso/
+vm/
+*.vhdx
+*.iso
+
+# logs y temporales
+*.log
+*.tmp
+
+# secretos locales (nunca commitear)
+secrets/
+*.secret
