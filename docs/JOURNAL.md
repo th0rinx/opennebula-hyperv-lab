@@ -1,7 +1,7 @@
 # Informe: Laboratorio de cloud privado con OpenNebula 7.2 Community sobre Windows 11
 
 **Fecha:** 1–2 de julio de 2026
-**Autor:** Luis Rojas
+**Autor:** Guillermo Molina
 **Resultado:** ✅ Cloud privado operativo con VMs KVM reales, montado 100% sobre un PC de escritorio con Windows 11 — sin VPS, sin costo de infraestructura.
 
 ---
