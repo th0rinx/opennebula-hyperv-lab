@@ -119,4 +119,4 @@ MIT — usalo, rompelo, mejoralo. PRs bienvenidos.
 
 ---
 
-*Construido y documentado en vivo sobre un AMD Ryzen 5 5600G / 32 GB, julio 2026.*
+*Construido y documentado, julio 2026.*
