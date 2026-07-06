@@ -225,12 +225,6 @@ exactamente lo que un lab debe producir.
 | Red estable | ✅ Switch onelab + NetNat + IP estática |
 | **Kubernetes OneKE 1.33** | ✅ Master `Ready` (v1.33.4+rke2r1), worker en integración |
 
-## Próximos pasos
-
-- [ ] Ingress (Traefik) y almacenamiento persistente (Longhorn) sobre OneKE.
-- [ ] Publicar el lab como repositorio en GitHub (cuenta personal).
-- [ ] Reportar upstream el bug de carrera OneGate/appliance de OneKE 1.33.
 
 ---
 
-*Nota: las credenciales del laboratorio no se incluyen en este informe. Stack: Windows 11 Pro · Hyper-V · Ubuntu Server 24.04.4 LTS · OpenNebula 7.2 Community · miniONE v7.2.0 · KVM/libvirt · OneKE 1.33 (RKE2/Kubernetes v1.33.4).*
